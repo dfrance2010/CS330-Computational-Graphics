@@ -4,25 +4,25 @@
 
 **o	What new design skills has your work on the project helped you to craft?**
 
-The biggest design skill I worked on for this project was picturing and sketching out my 3D scene, then bringing it to life on the screen. This including measuring the actual objects, normalizing those measurements, and applying consistent textures.
+The biggest design skill I worked on for this project was picturing and sketching out my 3D scene in order to bring it to life on the screen. This included measuring the actual objects, normalizing those measurements, and figuring out coordinates to place the objects in the 3D scene.
 
 **o	What design process did you follow for your project work?**
 
-I followed a design process that I think is essentially Agile. I reviewed the requirements, came up with a plan, made the most basic parts work, then made incremental changes along the way. This allowed me to know where bugs were and to consistently move towards a finished project.
+I followed a design process that I think is essentially Agile. I reviewed the requirements, came up with a plan, made the most basic parts work, then made incremental changes until I was happy with the results. This allowed me to know where bugs were and to consistently move towards a finished project.
 
 **o	How could tactics from your design approach be applied in future work?**
 
-I think all the tactics from my approach will be beneficial in future work, especially as I get into large and complex code bases. I expect being able to understand what other people have done and apply positive changes will serve me well in the future.
+I think all the tactics from my approach will be beneficial in future work, especially thinking about and designing a solution before putting it into code. Within that, sketching out/writing down what needed to be done before changing the code I think will be particularly applicable.
 
 **2.	How do I approach developing programs?**
 
 **o	What new development strategies did you use while working on your 3D scene?**
 
-The biggest development strategy I used in this project was working with an existing codebase and adjusting it to the project at hand. I had to spend some time going through the code and understanding what was happening where before I could start making it work for me. From there, I was able to modify/design functions to create the images and lighting to suit my scene.
+The biggest new development strategy I used in this project was working with an existing codebase and adjusting it to the project at hand. I had to spend some time going through the code and understanding what was happening and where before I could start making it work for me. From there, I was able to modify/design functions to create the images and lighting to suit my scene.
 
 **o	How did iteration factor into your development?**
 
-Iteration was a huge factor in my development. I had to consistently make small changes, see how they affected my scene, then go back to the drawing board. 
+Iteration was a huge factor in my development as I had to consistently make small changes, see how they affected my scene, then go back to the drawing board. It was essentially my go to strategy for completing the work for each step.
 
 **o	How has your approach to developing code evolved throughout the milestones, which led you to the project’s completion?**
 
