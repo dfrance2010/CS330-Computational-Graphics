@@ -1,4 +1,4 @@
-# CS330
+# CS330 - Computational Graphics
 
 **1.	How do I approach designing software?**
 
