@@ -1,5 +1,8 @@
 # CS330 - Computational Graphics
 
+**Original Scene**
+[original scene](/images/table_scene_original.jpg)
+
 **1.	How do I approach designing software?**
 
 **o	What new design skills has your work on the project helped you to craft?**
