@@ -1,5 +1,7 @@
 # CS330 - Computational Graphics
 
+For this project we had to recreate a 3D scene, including complex objects, using C++ and OpenGL. This included adding lighting, textures, and creating multiple objects from base shapes. The camera can be controlled using the mouse and ASWDQE keys. The code was written in Visual Studio.
+
 **Original Scene**<br>
 
 ![](/images/table_scene_original.jpg?raw=True "Original Scene")<br>
