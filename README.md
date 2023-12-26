@@ -1,7 +1,13 @@
 # CS330 - Computational Graphics
 
-**Original Scene**
-![original scene](/images/table_scene_original.jpg?raw=True "Original Scene")
+**Original Scene**<br>
+
+![](/images/table_scene_original.jpg?raw=True "Original Scene")<br>
+
+**Generated Scene**<br>
+
+![](/images/table_scene_generated.png?raw=True "Generated Scene")
+
 
 **1.	How do I approach designing software?**
 
